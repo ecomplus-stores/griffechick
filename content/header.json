@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Seja uma Diva Revendedora! Faça seu cadastro aqui",
-    "link": "https://docs.google.com/forms/d/e/1FAIpQLSdK1twJq3T6vWh1-fdW4fPzxn_7hiSOQeEz3xGSoz9VSSYOIg/viewform"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -14,9 +14,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/tata-martello?TATA MARTELLO",
+      "/tata-martello?TATA MARTELLO",
+      "/kauly?KAULY"
+    ],
     "random": 5,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "centralized_logo": true
 }
