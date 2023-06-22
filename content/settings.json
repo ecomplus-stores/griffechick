@@ -1,23 +1,26 @@
 {
-  "store_id": 51406,
-  "name": "griffe chick",
   "domain": "griffechick.netlify.app",
-  "short_name": "griffe-chick",
-  "description": "Roupas griffechick",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "repository": "ecomplus-stores/griffechick",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/griffechick",
+  "logo": "/img/uploads/griffe-chick.png",
+  "name": "Griffe Chick - Loja de Moda Feminina",
+  "short_name": "griffe-chick",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "font_family": "Montserrat",
+  "favicon": "/img/uploads/g-1-.png",
+  "icons_font": "_",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/griffe-chick.png",
+  "store_id": 51406,
+  "description": "Griffe Chick nasceu em 2019 inspirada na beleza e no encanto de cada mulher, única e sonhadora. Resguardamos valores que qualificam a mulher moderna e exigente no vestir. Agregamos detalhes e um estilo que encanta e aprimoramos na essência um produto que reflete a beleza feminina.",
+  "large_icon": "/img/uploads/griffe-chick.png"
 }
