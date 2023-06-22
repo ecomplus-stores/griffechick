@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dd5d96c14e8d33bc8158f1f58abef4e9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.013f6a8c4b227897098e5ef12c96e684.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.303b069afba3ed11a27e0026617aec2a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.26cbb536b4481e2014c53783a76c036e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9d96ec560a0e5fd4a716e95b63ff47ea.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Griffe Chick - Loja de Moda Feminina",
+  "short_name": "griffe-chick",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Griffe Chick nasceu em 2019 inspirada na beleza e no encanto de cada mulher, única e sonhadora. Resguardamos valores que qualificam a mulher moderna e exigente no vestir. Agregamos detalhes e um estilo que encanta e aprimoramos na essência um produto que reflete a beleza feminina.",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
