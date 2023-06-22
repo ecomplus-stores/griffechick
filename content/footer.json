@@ -6,7 +6,9 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "links_2": {
     "list_categories": true,
@@ -27,7 +29,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +37,13 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "pix": true,
+    "itau": false
   },
-  "credits": "Todos os direitos reservados a Cristiane Resende Moda Feminina"
+  "credits": "Todos os direitos reservados a Griffe Chick - Moda Feminina"
 }
