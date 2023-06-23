@@ -9,16 +9,9 @@
         {
           "start": "2023-06-01T11:59:12.715Z",
           "end": "",
-          "mobile_img": "/img/uploads/site-4_easy-resize.com-1-.jpg",
-          "img": "/img/uploads/sintonia-3.jpg",
-          "link": "https://cristianeresende.com.br/colecao-sintonia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/sintonia-4.jpg",
-          "link": "https://cristianeresende.com.br/linha-angel",
-          "mobile_img": "/img/uploads/sintonia-2.jpg"
+          "mobile_img": "",
+          "img": "/img/uploads/novo.png",
+          "link": ""
         }
       ],
       "full_width": true
