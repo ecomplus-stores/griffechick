@@ -1,11 +1,12 @@
 {
-  "title": "Sobre a Cristiane Resende",
-  "meta_title": "Sobre a Cristiane Resende",
-  "meta_description": "Sobre a Cristiane Resende",
-  "body": "<!--StartFragment-->\n\nCR nasceu em 2006, a partir de um sonho de Cristiane Resende em criar roupas capaz de libertar o espírito sonhador de cada mulher. Sempre atuando no ramo da moda, com o passar do tempo começou fazer suas próprias peças e vender para as pessoas mais próximas. Deu tão certo que o interesse por seus modelos foi aumentado e ela viu a possibilidade de seus sonhos tornarem realidade.\n\nHoje na direção criativa da marca Cristiane Resende aprimora a essência do produto realçando a beleza feminina com inspiração constante que ajudam a criar peças que encantam.\\\nA Cristiane Resende representa uma moda elegante, sonhadora, exuberante e feminina com qualidade excepcional que vem conceituando a marca no seguimento moda evangélica, com estética e estilo que criam formas através de belos modelos.\n\nTemos muito orgulho em dividir interesses e valores, criando sempre uma relação enriquecedora com nossa equipe e clientes trabalhando com paixão e dedicação aos menores detalhes com sonhos que tocam a realidade.\n\n<!--EndFragment-->",
+  "title": "Sobre a Griffe Chick",
+  "meta_title": "Sobre a Griffe Chick",
+  "meta_description": "Sobre a Griffe Chick",
+  "body": "Griffe Chick nasceu em 2019 inspirada na beleza e no encanto de cada mulher, única e sonhadora. Resguardamos valores que qualificam a mulher moderna e exigente no vestir. Agregamos detalhes e um estilo que encanta e aprimoramos na essência um produto que reflete a beleza feminina.\n\nNúbia Apolinário é a idealizada da marca que carrega consigo a possibilidade de expandir e valorizar o que existe de mais rico e encantador no traje da mulher de espírito nobre.\n\nNossa missão é proporcionar constantemente qualidade, conforto e exuberância através de peças com modelagem e acabamentos impecáveis e participar de momentos únicos e inesquecíveis das nossas maravilhosas clientes.\n\nNossa matriz fica em Goiânia-Go e as nossas vendas on-line chegam a você com grande agilidade e, claro, proporcionando uma experiência apaixonante e cada vez mais próxima com o nosso público!\n\nVenha se encantar!\n\nGriffe Chick.",
   "sections": [
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Sobre a Griffe Chick"
     },
     {
       "type": "extra-page",
@@ -14,7 +15,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "QUE TAL COMPRAR O SEU CR HOJE?"
+      "title": "QUE TAL COMPRAR O SEU VESTIDO HOJE?",
+      "collection_id": "648b9b8d5e606903703b5739:brands:TATA MARTELLO:/tata-martello",
+      "sort": "news",
+      "page": ""
     }
   ]
 }
