@@ -2,7 +2,7 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "<!--StartFragment-->\n\nPara você receber o seu pedido totalmente seguro, lacrado e com a mesma qualidade que sai da nossa loja, usamos as seguintes formas de entrega:\n\n**CORREIOS**\\\n**PAC :** Frete Grátis para pedidos acima de R$450,00\\\n**Sedex :** Valor calculado junto com o pedido.\n\n<!--EndFragment-->",
+  "body": "<!--StartFragment-->\n\nPara você receber o seu pedido totalmente seguro, lacrado e com a mesma qualidade que sai da nossa loja, usamos as seguintes formas de entrega:\n\n***CORREIOS***\\\n**FRETE RÁPIDO(PAC):** Frete Grátis para pedidos acima de R$450,00\\\n**FRETE SUPER RÁPIDO(SEDEX):** Valor calculado junto com o pedido.\n\n<!--EndFragment-->",
   "sections": [
     {
       "type": "page-title"
@@ -14,7 +14,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "VAMOS APROVEITAR PARA ESCOLHER SEU LOOK?"
+      "title": "VAMOS APROVEITAR PARA ESCOLHER SEU LOOK?",
+      "collection_id": "648b9b8d5e606903703b5739:brands:TATA MARTELLO:/tata-martello"
     }
   ]
 }
