@@ -4,23 +4,16 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Seja uma Revendedora. Faça seu cadastro aqui",
-        "link": "/pages/revendedor"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [
-      "/tata-martello?TATA MARTELLO",
-      "/tata-martello?TATA MARTELLO",
-      "/kauly?KAULY"
+      "/tata-martello?TATA MARTELLO"
     ],
     "random": 5,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true,
   "centralized_logo": true
