@@ -9,14 +9,15 @@
         {
           "start": "2023-06-01T11:59:12.715Z",
           "end": "",
-          "mobile_img": "",
+          "mobile_img": "/img/uploads/desconto-especial.jpg",
           "img": "/img/uploads/novo.png",
           "link": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/novo-4-.png"
+          "img": "/img/uploads/novo-4-.png",
+          "mobile_img": "/img/uploads/desconto-especial-1-.jpg"
         }
       ],
       "full_width": true
