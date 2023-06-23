@@ -12,6 +12,11 @@
           "mobile_img": "",
           "img": "/img/uploads/novo.png",
           "link": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/novo-1-.png"
         }
       ],
       "full_width": true
