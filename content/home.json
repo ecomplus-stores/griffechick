@@ -50,9 +50,18 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "LANÇAMENTOS DO MÊS",
+      "title": "LANÇAMENTOS DE VESTIDOS",
       "sort": "news",
       "collection_id": "648c9d945e606903703c671d:categories:Vestidos:/vestidos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "648c9d9b5e606903703c6730:categories:Saias:/saias",
+      "sort": "news",
+      "title": "LANÇAMENTOS DE SAIAS"
     }
   ]
 }
