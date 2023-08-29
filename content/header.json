@@ -11,9 +11,9 @@
   },
   "categories_list": {
     "featured": [
-      "/promocoes?PROMOÇÕES"
+      "/lacamentos?Laçamentos"
     ],
-    "random": 10,
+    "random": 9,
     "full_width": true
   },
   "search_input": true,
